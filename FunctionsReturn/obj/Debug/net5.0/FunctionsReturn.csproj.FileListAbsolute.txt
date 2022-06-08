@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\bin\Debug\net5.0\FunctionsReturn.exe
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\bin\Debug\net5.0\FunctionsReturn.deps.json
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\bin\Debug\net5.0\FunctionsReturn.runtimeconfig.json
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\bin\Debug\net5.0\FunctionsReturn.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\bin\Debug\net5.0\FunctionsReturn.dll
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\bin\Debug\net5.0\ref\FunctionsReturn.dll
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\bin\Debug\net5.0\FunctionsReturn.pdb
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.AssemblyInfo.cs
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.dll
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\ref\FunctionsReturn.dll
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.pdb
+C:\Users\lena_\source\repos\Functions\FunctionsReturn\obj\Debug\net5.0\FunctionsReturn.genruntimeconfig.cache

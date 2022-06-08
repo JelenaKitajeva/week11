@@ -1,0 +1,15 @@
+C:\Users\lena_\source\repos\Functions\FC\bin\Debug\net5.0\FC.exe
+C:\Users\lena_\source\repos\Functions\FC\bin\Debug\net5.0\FC.deps.json
+C:\Users\lena_\source\repos\Functions\FC\bin\Debug\net5.0\FC.runtimeconfig.json
+C:\Users\lena_\source\repos\Functions\FC\bin\Debug\net5.0\FC.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\Functions\FC\bin\Debug\net5.0\FC.dll
+C:\Users\lena_\source\repos\Functions\FC\bin\Debug\net5.0\ref\FC.dll
+C:\Users\lena_\source\repos\Functions\FC\bin\Debug\net5.0\FC.pdb
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\FC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\FC.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\FC.AssemblyInfo.cs
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\FC.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\FC.dll
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\ref\FC.dll
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\FC.pdb
+C:\Users\lena_\source\repos\Functions\FC\obj\Debug\net5.0\FC.genruntimeconfig.cache
